@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4202],{5218:e=>{e.exports=JSON.parse('{"label":"admin","permalink":"/tags/admin","allTagsPath":"/tags","count":1,"items":[{"id":"core/admin/intro","title":"Introduction","description":"This section is an overview of all the features related to admin:","permalink":"/admin"}]}')}}]);
